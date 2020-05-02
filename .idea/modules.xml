@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/E-CommerceAndroidAppExample.iml" filepath="$PROJECT_DIR$/E-CommerceAndroidAppExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/E-CommerceAndroidAppExample-app.iml" filepath="$PROJECT_DIR$/app/E-CommerceAndroidAppExample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitHub-E-CommerceAndroidAppExample.iml" filepath="$PROJECT_DIR$/GitHub-E-CommerceAndroidAppExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
